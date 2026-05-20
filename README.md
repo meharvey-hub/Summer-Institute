@@ -4,7 +4,7 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 ![Preview](preview.jpg)
 
 ## Live links (replace with your own)
-- Leaflet Map [https://mrcummings.github.io/leaflet-maps-with-google-sheets/](https://meharvey-hub.github.io/Summer-Institute/)
+- Leaflet Map https://meharvey-hub.github.io/Summer-Institute/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1Dbh2YtVljfZihrq6V6NpULficKGZ0W12zKHSlaHnevU/edit?gid=0#gid=0
 
 ## Create your own
